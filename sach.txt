@@ -1,0 +1,12 @@
+467,Toan Roi Rac,Toan Hoc,Giao Duc,2000 30000 4 0
+334,Nha Gia Kim,Phieu Luu,Paulo Coelho,1988 50000 3 0
+500,Dune,Khoa Hoc Vien Tuong,Frank Herbert,1965 100000 5 0
+169,Kinh Te Quoc Te,Nghien Cuu,Giao Duc,2000 60000 2 0
+724,Tuoi Tho Du Doi,Tieu Thuyet,Phung Khang,2004 120000 4 0
+478,The Godfather,Tieu Thuyet,Mario Puzo,1969 120000 10 1
+358,Hoa Nguc,Trinh Tham,Dan Brown,2013 90000 7 0
+962,Tieng Anh A2,Anh Van,Giao Duc,2000 80000 7 1
+464,Tieng Anh B1,Anh Van,Giao Duc,2000 90000 6 0
+705,Do Doc,Tieu Thuyet,Binh Nguyen Loc,2024 75000 2 0
+145,Huong Doi Tuong,Toan Hoc,Giao Duc,2000 45000 7 0
+41,Dai So Tuyen Tinh,Toan Hoc,Giao Duc,2000 50000 3 0
